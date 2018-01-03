@@ -6,10 +6,7 @@ Lean Elasticsearch Curator container image, based on Alpine Linux 3.7 and Python
 ## Current software
 
 * Python 3
-* Curator 5.4.1
+* Curator 4.X
 
-## Usage
-
-```
-docker pull quay.io/pires/docker-elasticsearch-curator:5.4.1
-```
+## Based on
+https://github.com/pires/docker-elasticsearch-curator
